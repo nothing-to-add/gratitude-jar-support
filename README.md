@@ -23,7 +23,7 @@ Sign in with your account in the app settings.
 Tap on Premium in the app settings to see subscription options.
 
 ## Privacy & Terms
-- [Privacy Policy](link-to-your-privacy-policy)
+- [Privacy Policy](privacy-policy)
 - [Terms of Service](link-to-your-terms)
 
 ---
