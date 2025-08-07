@@ -24,7 +24,7 @@ Tap on Premium in the app settings to see subscription options.
 
 ## Privacy & Terms
 - [Privacy Policy](privacy-policy.md)
-- [Terms of Service](link-to-your-terms)
+- [Terms of Service](terms-of-service.md)
 
 ---
 © 2023 nothing-to-add
