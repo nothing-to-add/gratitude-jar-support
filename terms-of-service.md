@@ -1,4 +1,4 @@
-# Gratitude Jar - App Support
+# Gratitude Jar: Share Joy - App Support
 
 ## Terms & Conditions
 
