@@ -1,7 +1,7 @@
-# Gratitude Jar - App Support
+# Gratitude Jar: Share Joy - App Support
 
 ## Need Help?
-Contact us for support with the Gratitude Jar app.
+Contact us for support with the Gratitude Jar: Share Joy app.
 
 **Email:** [nothing-to-add@outlook.com](mailto:nothing-to-add@outlook..com?subject=Gratitude%20Jar%20App%20Support)
 
