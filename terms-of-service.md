@@ -8,6 +8,15 @@ Upon downloading or utilizing the Application, you are automatically agreeing to
 
 The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
 
+## Subscription Terms
+
+The Application offers auto-renewable subscription services:
+
+- **Gratitude Jar Premium (Monthly)**: 1 month subscription
+- **Gratitude Jar Premium (Annual)**: 1 year subscription
+
+Payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless canceled at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase.
+
 The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
 
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
